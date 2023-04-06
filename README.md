@@ -8,7 +8,7 @@ birthday DATE,
 email VARCHAR(100) );
 
 ## 2.Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
-Preview
+
 insert into employee (id, name, birthday, email) values (1, 'Arron', null, 'ahendricks0@networksolutions.com');
 insert into employee (id, name, birthday, email) values (2, 'Scarlet', '2022-05-26', 'sdowbiggin1@apple.com');
 insert into employee (id, name, birthday, email) values (3, 'Lonnard', null, 'lpenrice2@miitbeian.gov.cn');
